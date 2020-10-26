@@ -9,5 +9,7 @@ int main()
   
   //done for now
   
+  cout << "uou";
+
   return 0;
 }
